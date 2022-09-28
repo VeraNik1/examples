@@ -1,0 +1,15 @@
+C:\Users\Veronika\Desktop\cccc\examples\example003_summ\bin\Debug\net6.0\example003_summ.exe
+C:\Users\Veronika\Desktop\cccc\examples\example003_summ\bin\Debug\net6.0\example003_summ.deps.json
+C:\Users\Veronika\Desktop\cccc\examples\example003_summ\bin\Debug\net6.0\example003_summ.runtimeconfig.json
+C:\Users\Veronika\Desktop\cccc\examples\example003_summ\bin\Debug\net6.0\example003_summ.dll
+C:\Users\Veronika\Desktop\cccc\examples\example003_summ\bin\Debug\net6.0\example003_summ.pdb
+C:\Users\Veronika\Desktop\cccc\examples\example003_summ\obj\Debug\net6.0\example003_summ.csproj.AssemblyReference.cache
+C:\Users\Veronika\Desktop\cccc\examples\example003_summ\obj\Debug\net6.0\example003_summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veronika\Desktop\cccc\examples\example003_summ\obj\Debug\net6.0\example003_summ.AssemblyInfoInputs.cache
+C:\Users\Veronika\Desktop\cccc\examples\example003_summ\obj\Debug\net6.0\example003_summ.AssemblyInfo.cs
+C:\Users\Veronika\Desktop\cccc\examples\example003_summ\obj\Debug\net6.0\example003_summ.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Desktop\cccc\examples\example003_summ\obj\Debug\net6.0\example003_summ.dll
+C:\Users\Veronika\Desktop\cccc\examples\example003_summ\obj\Debug\net6.0\refint\example003_summ.dll
+C:\Users\Veronika\Desktop\cccc\examples\example003_summ\obj\Debug\net6.0\example003_summ.pdb
+C:\Users\Veronika\Desktop\cccc\examples\example003_summ\obj\Debug\net6.0\example003_summ.genruntimeconfig.cache
+C:\Users\Veronika\Desktop\cccc\examples\example003_summ\obj\Debug\net6.0\ref\example003_summ.dll
