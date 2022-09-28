@@ -1,0 +1,15 @@
+C:\Users\Veronika\Desktop\cccc\examples\examle002_hello_user\bin\Debug\net6.0\examle002_hello_user.exe
+C:\Users\Veronika\Desktop\cccc\examples\examle002_hello_user\bin\Debug\net6.0\examle002_hello_user.deps.json
+C:\Users\Veronika\Desktop\cccc\examples\examle002_hello_user\bin\Debug\net6.0\examle002_hello_user.runtimeconfig.json
+C:\Users\Veronika\Desktop\cccc\examples\examle002_hello_user\bin\Debug\net6.0\examle002_hello_user.dll
+C:\Users\Veronika\Desktop\cccc\examples\examle002_hello_user\bin\Debug\net6.0\examle002_hello_user.pdb
+C:\Users\Veronika\Desktop\cccc\examples\examle002_hello_user\obj\Debug\net6.0\examle002_hello_user.csproj.AssemblyReference.cache
+C:\Users\Veronika\Desktop\cccc\examples\examle002_hello_user\obj\Debug\net6.0\examle002_hello_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veronika\Desktop\cccc\examples\examle002_hello_user\obj\Debug\net6.0\examle002_hello_user.AssemblyInfoInputs.cache
+C:\Users\Veronika\Desktop\cccc\examples\examle002_hello_user\obj\Debug\net6.0\examle002_hello_user.AssemblyInfo.cs
+C:\Users\Veronika\Desktop\cccc\examples\examle002_hello_user\obj\Debug\net6.0\examle002_hello_user.csproj.CoreCompileInputs.cache
+C:\Users\Veronika\Desktop\cccc\examples\examle002_hello_user\obj\Debug\net6.0\examle002_hello_user.dll
+C:\Users\Veronika\Desktop\cccc\examples\examle002_hello_user\obj\Debug\net6.0\refint\examle002_hello_user.dll
+C:\Users\Veronika\Desktop\cccc\examples\examle002_hello_user\obj\Debug\net6.0\examle002_hello_user.pdb
+C:\Users\Veronika\Desktop\cccc\examples\examle002_hello_user\obj\Debug\net6.0\examle002_hello_user.genruntimeconfig.cache
+C:\Users\Veronika\Desktop\cccc\examples\examle002_hello_user\obj\Debug\net6.0\ref\examle002_hello_user.dll
